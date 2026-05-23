@@ -76,4 +76,3 @@ Evaluación de controles clave de la norma.
 ## Conclusiones
 El sistema cumple con todos los requisitos del proyecto. Solución práctica, segura y alineada con las necesidades de un ingeniero en telecomunicaciones.
 
-**Enlace al repositorio:** https://github.com/ydavidperez/proyecto-seguridad-telecom
