@@ -1,0 +1,11 @@
+train: dataset/train/images
+val: dataset/valid/images
+
+nc: 5
+
+names:
+  0: router
+  1: switch
+  2: firewall
+  3: server
+  4: access_point
