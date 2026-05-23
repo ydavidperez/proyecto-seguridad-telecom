@@ -1,0 +1,21 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='700'>
+<rect width='100%' height='100%' fill='#ffffff'/>
+<text x='400' y='50' font-size='28'>Arquitectura General del Sistema</text>
+<rect x='60' y='120' width='180' height='80' fill='#dbeafe' stroke='black'/>
+<text x='95' y='165'>Captura Imagen</text>
+<rect x='320' y='120' width='180' height='80' fill='#dcfce7' stroke='black'/>
+<text x='370' y='165'>YOLOv8</text>
+<rect x='580' y='120' width='180' height='80' fill='#fef3c7' stroke='black'/>
+<text x='625' y='165'>SHA-256</text>
+<rect x='840' y='120' width='180' height='80' fill='#fee2e2' stroke='black'/>
+<text x='900' y='165'>AES-256</text>
+<rect x='320' y='320' width='180' height='80' fill='#ede9fe' stroke='black'/>
+<text x='390' y='365'>RSA</text>
+<rect x='620' y='320' width='220' height='80' fill='#cffafe' stroke='black'/>
+<text x='670' y='365'>Servidor Seguro</text>
+<line x1='240' y1='160' x2='320' y2='160' stroke='black' stroke-width='3'/>
+<line x1='500' y1='160' x2='580' y2='160' stroke='black' stroke-width='3'/>
+<line x1='760' y1='160' x2='840' y2='160' stroke='black' stroke-width='3'/>
+<line x1='930' y1='200' x2='760' y2='320' stroke='black' stroke-width='3'/>
+<line x1='500' y1='360' x2='620' y2='360' stroke='black' stroke-width='3'/>
+</svg>
