@@ -1,0 +1,14 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='600'>
+<rect width='100%' height='100%' fill='white'/>
+<text x='360' y='40' font-size='28'>Evidencia de Detección YOLO</text>
+<rect x='80' y='120' width='220' height='160' fill='#dbeafe' stroke='black'/>
+<text x='130' y='210'>Router Detectado</text>
+<rect x='380' y='120' width='220' height='160' fill='#dcfce7' stroke='black'/>
+<text x='440' y='210'>Switch Detectado</text>
+<rect x='680' y='120' width='220' height='160' fill='#fee2e2' stroke='black'/>
+<text x='735' y='210'>Firewall Detectado</text>
+<rect x='230' y='360' width='220' height='160' fill='#ede9fe' stroke='black'/>
+<text x='290' y='450'>Servidor Detectado</text>
+<rect x='540' y='360' width='220' height='160' fill='#fef3c7' stroke='black'/>
+<text x='595' y='450'>Access Point</text>
+</svg>
