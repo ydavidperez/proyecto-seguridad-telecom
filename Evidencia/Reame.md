@@ -11,4 +11,4 @@ La siguiente imagen resume los componentes principales del proyecto:
 - Matriz de Riesgos
 - Declaración de Aplicabilidad (SoA)
 
-![Panel del Proyecto](evidencias/panel_proyecto_final_yolo_iso27001.png)
+[Panel del Proyecto](evidencias/panel_proyecto_final_yolo_iso27001.png)
